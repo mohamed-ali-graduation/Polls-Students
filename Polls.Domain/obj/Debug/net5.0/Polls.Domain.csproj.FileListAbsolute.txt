@@ -1,0 +1,12 @@
+E:\Projects\Graduation Project\Polls-Students-\Polls.Domain\bin\Debug\net5.0\Polls.Domain.deps.json
+E:\Projects\Graduation Project\Polls-Students-\Polls.Domain\bin\Debug\net5.0\Polls.Domain.dll
+E:\Projects\Graduation Project\Polls-Students-\Polls.Domain\bin\Debug\net5.0\Polls.Domain.pdb
+E:\Projects\Graduation Project\Polls-Students-\Polls.Domain\obj\Debug\net5.0\Polls.Domain.csproj.AssemblyReference.cache
+E:\Projects\Graduation Project\Polls-Students-\Polls.Domain\obj\Debug\net5.0\Polls.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Graduation Project\Polls-Students-\Polls.Domain\obj\Debug\net5.0\Polls.Domain.AssemblyInfoInputs.cache
+E:\Projects\Graduation Project\Polls-Students-\Polls.Domain\obj\Debug\net5.0\Polls.Domain.AssemblyInfo.cs
+E:\Projects\Graduation Project\Polls-Students-\Polls.Domain\obj\Debug\net5.0\Polls.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\Graduation Project\Polls-Students-\Polls.Domain\obj\Debug\net5.0\Polls.Domain.dll
+E:\Projects\Graduation Project\Polls-Students-\Polls.Domain\obj\Debug\net5.0\refint\Polls.Domain.dll
+E:\Projects\Graduation Project\Polls-Students-\Polls.Domain\obj\Debug\net5.0\Polls.Domain.pdb
+E:\Projects\Graduation Project\Polls-Students-\Polls.Domain\obj\Debug\net5.0\ref\Polls.Domain.dll
